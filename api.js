@@ -11,7 +11,7 @@ var PROXY_TOTAL_BUDGET   = 20000;
    حطّي رابط الـ Worker بتاعك هنا بعد ما ترفعيه (من غير / في الآخر) */
 var WORKER_URL = 'https://withered-tree-75cb.mennhat663.workers.dev';
 var KB_PROXIES = [{
-    name: 'my-worker',
+    name: 'BaadBooyKiick',
     post: true,
     build: function (u) {
         /* بس طلبات Kick تعدّي على الـ Worker؛ أي رابط تاني (جيتهب، فايربيز) يروح مباشر */
